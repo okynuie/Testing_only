@@ -1,1 +1,3 @@
 ini hanya percobaan dengan isi text random.
+
+ini file dari branch yang di rename
